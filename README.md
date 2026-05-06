@@ -1,10 +1,10 @@
 ## olá, meu nome é Maria Clara!
 
--👩‍💻 Atualmente sou estudante do curso Técnico em Desenvolvimento de Sistemas do SENAI.
+- 👩‍💻 Atualmente sou estudante do curso Técnico em Desenvolvimento de Sistemas do SENAI.
 
 ---
 
-##📚Disciplinas Cursadas:
+## 📚Disciplinas Cursadas:
 - Lógica de programação e Algoritmos;
 - Arquitetura de Redes com IoT;
 - Sistemas Operacionais;
@@ -12,11 +12,11 @@
 
 ---
 
-## Linguagens estudadas:
--Python;
--C++.
+## 💫Linguagens estudadas:
+- Python;
+- C++.
 
 ---
 
 ##   Meu sonho é:
--⚖️ Fazer Direito, ser Advogada. 
+- ⚖️ Fazer Direito, ser Advogada. 

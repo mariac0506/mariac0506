@@ -12,11 +12,11 @@
 
 ---
 
-## 💫Linguagens estudadas:
+## 📘Linguagens estudadas:
 - Python;
 - C++.
 
 ---
 
-##   Meu sonho é:
+##  💫 Meu sonho é:
 - ⚖️ Fazer Direito, ser Advogada. 
